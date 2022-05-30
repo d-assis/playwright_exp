@@ -1,0 +1,23 @@
+{
+  "name": "playwright_exp",
+  "version": "1.0.0",
+  "description": "Repositório de estudos com a ferramenta playwright",
+  "main": "index.js",
+  "scripts": {
+    "p-test":"playwright test myTest --headed --workers=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-assis/playwright_exp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-assis/playwright_exp/issues"
+  },
+  "homepage": "https://github.com/d-assis/playwright_exp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
